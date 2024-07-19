@@ -25,8 +25,4 @@ Deep Learning Models:
 
 DataSet: https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database
 
-By: 
-  -Adithya Rajesh Pillai
-  -Tanisha Jauhari
-  -Saransh Khera
-  -Judev Reddy A
+By: Adithya Rajesh Pillai, Tanisha Jauhari, Saransh Khera, Judev Reddy A
